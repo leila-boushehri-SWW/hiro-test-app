@@ -22,7 +22,8 @@
     "@expo/vector-icons": "^15.0.3",
     "react-native-safe-area-context": "~5.6.0",
     "react-native-screens": "~4.16.0",
-    "nativewind": "^4.0.36"
+    "nativewind": "^4.0.36",
+    "react-dom": "19.1.0"
   },
   "devDependencies": {
     "@types/react": "~19.1.10",
