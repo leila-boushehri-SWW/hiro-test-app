@@ -7,7 +7,7 @@ const UNLOCK_KEY = "pin_gate_unlocked_v1";
 
 // ✅ For a prototype: hardcode PIN here.
 // Better: use an env var and EAS secrets (see note at the end).
-const PIN = "1234";
+const PIN = "1999";
 
 export default function PinGate({ children }: { children: React.ReactNode }) {
   const [ready, setReady] = useState(false);
